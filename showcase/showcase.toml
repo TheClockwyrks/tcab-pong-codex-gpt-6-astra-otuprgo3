@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.json.gz"
+name = "Spin through the court"
+
+[[media]]
+file = "rally.png"
+name = "Make the angle yours"
+
+[[media]]
+file = "title.png"
+name = "Welcome to the paddle club"
+
+[[media]]
+file = "howto.png"
+name = "Three steps to a bank shot"
